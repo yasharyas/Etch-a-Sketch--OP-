@@ -11,6 +11,10 @@ This project is a web-based Etch-a-Sketch application that allows users to creat
 - **Random Color**: Apply random colors to the squares.
 - **Reset Button**: Clear the grid and start fresh.
 
+  ![Demo](Etch-a-sketch.gif)
+
+  
+
 ## Installation
 1. Clone the repository to your local machine.
     ```sh
